@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://maxzhang1985.github.io/2020/05/11/k8s-pod-coutdown/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/12/28/ASPNETCore-Captcha-Skia/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2020/05/28/Core%E8%AE%BE%E8%AE%A1%E7%9A%84Golang%E5%AE%9E%E7%8E%B0/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/02/28/Core%E8%BF%81%E7%A7%BB%E5%88%B0MSBuild%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0%E7%BC%96%E8%AF%91%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/02/21/NET-Core-SDK%E7%9B%B8%E5%85%B3%E4%B8%8B%E8%BD%BD-%E5%90%AB%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2018/12/05/alertmanager/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2020/05/13/app-registry-k8s/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2020/05/11/aspnetcore-displaying-enumwhithrec/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/11/14/aspnetcore-gc-analysis/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/09/28/aspnetcore-max-request-body-size-limit/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2019/04/04/aspnetcore2-mvc-apicontoller/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/03/29/debug-dotnetcore-with-bash/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2020/04/10/k8s-jvm-hicpu-problem/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/02/23/Core%E4%BD%BF%E7%94%A8unsafe%E6%96%B9%E6%B3%95%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/04/14/modifiy-clrhost-and-run/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/04/07/muti-projects-mvc-areas/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2018/08/16/netcore2-nlog-kafka/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/05/18/netcore2-ref-and-span/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2019/05/16/netcore3-assemly-unload/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2018/08/23/springboot-logback-kafka/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/03/21/vs2017-build-coreclr-1/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/12/07/vscode-debug-dotnetcore-wsl/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/02/21/%E5%9C%A8ASP-NET-Core%E4%B8%8B%E4%BD%BF%E7%94%A8SignalR%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/02/21/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/07/04/ASP-NET-Core-2-SignalR/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>  <url>
+    <loc>http://maxzhang1985.github.io/2017/03/14/project-json-to-csproj/</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>
+</urlset>
